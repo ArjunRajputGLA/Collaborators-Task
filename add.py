@@ -1,2 +1,3 @@
-def summation(a,b):
-  return a+b
+class Calculator:
+  def summation(a,b):
+    return a+b
